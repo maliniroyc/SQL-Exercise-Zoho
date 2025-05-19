@@ -22,7 +22,7 @@ Now, the objective is to validate the student response and present it in a singl
 **Output table**: Available on PDF </br>
 
 **Query code**: </br>
-SELECT
+```sql SELECT
 		 sl."roll_number",
 		 sl."student_name",
 		 sc."class",
